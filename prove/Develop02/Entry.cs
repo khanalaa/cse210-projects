@@ -1,17 +1,16 @@
 /* 
 Aayush Khanal
-Discription: This program gets entry like date, prompt, location and respone then
-        display it whenever needed.
+Discription: This program gets entry like date, prompt, location and respone then display it whenever needed.
 */
 
 using System;
 
 public class Entry
 {
-    public DateTime Date { get; set; } //Property for the date
-    public string Prompt { get; set; } // Property for the prompt
-    public string Location { get; set; } // Property for the location
-    public string Response { get; set; } // Property for the response
+    public DateTime Date { get; set; } 
+    public string Prompt { get; set; } 
+    public string Location { get; set; } 
+    public string Response { get; set; } 
 
     // Cronstructor to initialize an entry
     public Entry(DateTime _ak_date, string _ak_prompt, string _ak_location, string _ak_response)

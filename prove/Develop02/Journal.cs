@@ -1,7 +1,6 @@
 /*
 Aayush Khanal
-Discription: This manages the journal, it display, save and load the journal saved
-        in file.
+Discription: This manages the journal, it display, save and load the journal saved in file.
 */
 
 using System;
@@ -68,7 +67,7 @@ class Journal {
                     Entry entry = new Entry(_ak_date, _ak_prompt, _ak_location, _ak_response);
                     _ak_entries.Add(entry); // Add the entry to the list of _ak_entries
 
-                    reader.ReadLine(); // Consume the empty line
+                    reader.ReadLine(); 
                 }
             }
         }
