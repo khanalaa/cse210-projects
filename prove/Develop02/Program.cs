@@ -13,11 +13,15 @@ class Program
         Journal journal = new Journal("Aayush Khanal"); // create a journal with a username
 
         // Define and add journal prompts
-        promptGenerator._ak_prompt.Add("What is your favorite memory?");
-        promptGenerator._ak_prompt.Add("Describe a place and what you like about it.");
-        promptGenerator._ak_prompt.Add("Who was the most interesting person you interacted with today?");
-        promptGenerator._ak_prompt.Add("If you had one thing you could do over today, what would it be?");
-        promptGenerator._ak_prompt.Add("What was the best part of the day?");
+        promptGenerator._ak_prompt.Add("Who was the most interesting person I interacted with today?");
+        promptGenerator._ak_prompt.Add("What was the best part of my day?");
+        promptGenerator._ak_prompt.Add("If I had one thing I could do over today, what would it be?");
+        promptGenerator._ak_prompt.Add("What is a new skill or lesson I learned today?");
+        promptGenerator._ak_prompt.Add("What was the strongest emotion I felt today?");
+        promptGenerator._ak_prompt.Add("How did I see the hand of the Lord in my life today?");
+        promptGenerator._ak_prompt.Add("How did I handle a challenging situation today?");
+        promptGenerator._ak_prompt.Add("Describe a moment that made me laugh today.");
+        promptGenerator._ak_prompt.Add("Reflect on a mistake I made and what I learned from it.");
 
         // stay in loop until it is false
         while (true){

@@ -1,15 +1,15 @@
-Date: 3/9/2024 12:40:48 PM
-Prompt: Who was the most interesting person you interacted with today?
+Date: 3/9/2024 1:16:55 PM
+Prompt: Prompt: Reflect on a mistake I made and what I learned from it.
+Location: Location: byui
+Response: Response: I have made no mistake today
+
+Date: 3/9/2024 1:17:21 PM
+Prompt: Prompt: How did I see the hand of the Lord in my life today?
+Location: Location: rexburg
+Response: Response: blessings
+
+Date: 3/9/2024 1:18:21 PM
+Prompt: How did I handle a challenging situation today?
 Location: Rexburg
-Response: Sushan poudel
-
-Date: 3/9/2024 12:41:15 PM
-Prompt: What is your favorite memory?
-Location: BYU-I
-Response: Class with Bro Clements
-
-Date: 3/9/2024 12:43:52 PM
-Prompt: Describe a place you visited.
-Location: shelbourne
-Response: Really good apartment
+Response: critical thinking of the situation, and by acting right
 
