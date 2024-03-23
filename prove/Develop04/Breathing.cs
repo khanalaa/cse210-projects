@@ -30,7 +30,7 @@ class Breathing : Activities {
                 Console.WriteLine();
             }
             else{
-                int mb_new_time = ak_totalTime / 2;
+                int ak_new_time = ak_totalTime / 2;
                 Console.Write("\n\nBreathe in...");
                 base.CountDown(ak_breathIn);
 

@@ -58,9 +58,9 @@ class Activities{
        
         Random rnd = new Random();
         int index = rnd.Next(_prompts.Count-1);
-        string mb_randomPrompt = _prompts[index];
+        string ak_randomPrompt = _prompts[index];
 
-        return mb_randomPrompt;
+        return ak_randomPrompt;
     }
 
     public void EndActivities(){
