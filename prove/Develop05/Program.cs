@@ -8,8 +8,8 @@ class Program
         bool ak_is_on = true;
         int ak_total_points = 0;
         List<Goal> goals = new List<Goal>();
-        // Save save = new Save();
-        // Load load = new Load();
+        Save save = new Save();
+        Load load = new Load();
 
         while (ak_is_on)
         {
@@ -25,7 +25,7 @@ class Program
 
             // User input for menu choice
             Console.Write("Select a choice from the menu: ");
-            int ak_bonus_point_choice = Int32.Parse(Console.ReadLine());
+            int ak_choice = Int32.Parse(Console.ReadLine());
 
             if (ak_choice == 1)
             {
